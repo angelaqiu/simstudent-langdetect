@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.optimaize.langdetect.profiles.LanguageProfileReader"/>
+<fullyQualifiedTypeName name="com.optimaize.langdetect.profiles.LanguageProfile"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.optimaize.langdetect.LanguageDetector"/>
+<fullyQualifiedTypeName name="com.optimaize.langdetect.LanguageDetectorBuilder"/>
+<fullyQualifiedTypeName name="com.optimaize.langdetect.text.TextObjectFactory"/>
+<fullyQualifiedTypeName name="com.optimaize.langdetect.text.CommonTextObjectFactories"/>
+<fullyQualifiedTypeName name="com.optimaize.langdetect.text.TextObject"/>
+<fullyQualifiedTypeName name="com.google.common.base.Optional"/>
+<fullyQualifiedTypeName name="com.optimaize.langdetect.ngram.NgramExtractors"/>
+<fullyQualifiedTypeName name="java.util.Optional"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.google.common.collect.ImmutableList"/>
+</qualifiedTypeNameHistroy>
